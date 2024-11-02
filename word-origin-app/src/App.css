@@ -1,0 +1,84 @@
+.App {
+  text-align: center;
+  background-color: #070707; /* Dark background */
+  background-image: linear-gradient(135deg, #1C1C1E 0%, #2C2C2E 100%); /* Optional gradient */
+  color: #FFFFFF; /* White text */
+  height: 100vh; /* Full height */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto', sans-serif; /* Clean font */
+}
+
+h1 {
+  margin-bottom: 20px;
+  font-size: 2.5em; /* Larger title */
+  letter-spacing: 1px; /* Slight spacing for elegance */
+}
+
+input {
+  padding: 15px; /* More padding for input */
+  margin-right: 10px;
+  border: none; /* Remove border */
+  border-radius: 25px; /* Rounded corners */
+  background-color: #E5E5EA; /* Light gray for input */
+  color: #000; /* Dark text for input */
+  width: 300px; /* Fixed width */
+}
+
+button {
+  padding: 15px 30px; /* More padding for buttons */
+  border: none; /* Remove border */
+  border-radius: 25px; /* Rounded corners */
+  background-color: #1100ff; /* Accent color */
+  color: #FFFFFF; /* White text */
+  font-size: 1em; /* Consistent font size */
+  cursor: pointer; /* Pointer cursor on hover */
+  transition: background-color 0.3s; /* Smooth color change */
+}
+
+button:hover {
+  background-color: #00a6ff; /* Darker orange on hover */
+}
+
+p {
+  margin-top: 20px;
+  font-size: 1.2em; /* Slightly larger text */
+}
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

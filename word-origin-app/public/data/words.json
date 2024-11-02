@@ -1,0 +1,305 @@
+{
+    "agape": {
+      "origin": "Greek, meaning 'love'."
+    },
+    "dikaiosune": {
+      "origin": "Greek, meaning 'righteousness'."
+    },
+    "shalom": {
+      "origin": "Hebrew, meaning 'peace'."
+    },
+    "hesed": {
+      "origin": "Hebrew, meaning 'loving-kindness' or 'mercy'."
+    },
+    "kadosh": {
+      "origin": "Hebrew, meaning 'holy'."
+    },
+    "ruach": {
+      "origin": "Hebrew, meaning 'spirit' or 'breath'."
+    },
+    "berith": {
+      "origin": "Hebrew, meaning 'covenant'."
+    },
+    "elohim": {
+      "origin": "Hebrew, meaning 'God' or 'gods'."
+    },
+    "emeth": {
+      "origin": "Hebrew, meaning 'truth'."
+    },
+    "mishpat": {
+      "origin": "Hebrew, meaning 'justice'."
+    },
+    "teshuva": {
+      "origin": "Hebrew, meaning 'repentance' or 'return'."
+    },
+    "tzedakah": {
+      "origin": "Hebrew, meaning 'charity' or 'justice'."
+    },
+    "nephesh": {
+      "origin": "Hebrew, meaning 'soul' or 'life'."
+    },
+    "logos": {
+      "origin": "Greek, meaning 'word' or 'reason'."
+    },
+    "parakletos": {
+      "origin": "Greek, meaning 'helper' or 'advocate'."
+    },
+    "ekklēsia": {
+      "origin": "Greek, meaning 'assembly' or 'church'."
+    },
+    "baptizo": {
+      "origin": "Greek, meaning 'to immerse' or 'to baptize'."
+    },
+    "agios": {
+      "origin": "Greek, meaning 'holy'."
+    },
+    "doxa": {
+      "origin": "Greek, meaning 'glory' or 'praise'."
+    },
+    "koinonia": {
+      "origin": "Greek, meaning 'fellowship' or 'community'."
+    },
+    "anthropos": {
+      "origin": "Greek, meaning 'man' or 'human'."
+    },
+    "pistis": {
+      "origin": "Greek, meaning 'faith' or 'trust'."
+    },
+    "soter": {
+      "origin": "Greek, meaning 'savior' or 'deliverer'."
+    },
+    "salvation": {
+      "origin": "Latin, meaning 'deliverance' or 'rescue'."
+    },
+    "shem": {
+      "origin": "Hebrew, meaning 'name' or 'renown'."
+    },
+    "chavah": {
+      "origin": "Hebrew, meaning 'to breathe' or 'to live'."
+    },
+    "adonai": {
+      "origin": "Hebrew, meaning 'my Lord' or 'Lord'."
+    },
+    "ruah": {
+      "origin": "Hebrew, meaning 'spirit' or 'wind'."
+    },
+    "sabbath": {
+      "origin": "Hebrew, meaning 'rest' or 'cease'."
+    },
+    "shavuot": {
+      "origin": "Hebrew, meaning 'weeks', refers to the Feast of Weeks."
+    },
+    "tikkun": {
+      "origin": "Hebrew, meaning 'repair' or 'restoration'."
+    },
+    "yad": {
+      "origin": "Hebrew, meaning 'hand'."
+    },
+    "manna": {
+      "origin": "Hebrew, referring to the miraculous food provided to the Israelites in the wilderness."
+    },
+    "sin": {
+      "origin": "Old English, meaning 'to miss the mark' or 'to err'."
+    },
+    "kohen": {
+      "origin": "Hebrew, meaning 'priest'."
+    },
+    "nehemiah": {
+      "origin": "Hebrew, meaning 'comforted by Yahweh'."
+    },
+    "ezekiel": {
+      "origin": "Hebrew, meaning 'God strengthens'."
+    },
+    "zebulun": {
+      "origin": "Hebrew, meaning 'dwelling' or 'honor'."
+    },
+    "miriam": {
+      "origin": "Hebrew, meaning 'wished for child'."
+    },
+    "elijah": {
+      "origin": "Hebrew, meaning 'my God is Yahweh'."
+    },
+    "daniel": {
+      "origin": "Hebrew, meaning 'God is my judge'."
+    },
+    "hosanna": {
+      "origin": "Hebrew, meaning 'save, please'."
+    },
+    "imanuel": {
+      "origin": "Hebrew, meaning 'God with us'."
+    },
+    "abaddon": {
+      "origin": "Hebrew, meaning 'destruction' or 'place of destruction'."
+    },
+    "goliath": {
+      "origin": "Hebrew, meaning 'exile' or 'to be exiled'."
+    },
+    "hannah": {
+      "origin": "Hebrew, meaning 'grace'."
+    },
+    "zephaniah": {
+      "origin": "Hebrew, meaning 'Yahweh has hidden'."
+    },
+    "amos": {
+      "origin": "Hebrew, meaning 'carried by God'."
+    },
+    "zebedee": {
+      "origin": "Hebrew, meaning 'gift of God'."
+    },
+    "zion": {
+      "origin": "Hebrew, meaning 'highest point' or 'heavenly city'."
+    },
+    "simeon": {
+      "origin": "Hebrew, meaning 'he has heard'."
+    },
+    "melech": {
+      "origin": "Hebrew, meaning 'king'."
+    },
+
+    "joseph": {
+      "origin": "Hebrew, meaning 'he will add'."
+    },
+    "judah": {
+      "origin": "Hebrew, meaning 'praise'."
+    },
+    "lazarus": {
+      "origin": "Hebrew, meaning 'God is my help'."
+    },
+    "matthias": {
+      "origin": "Hebrew, meaning 'gift of Yahweh'."
+    },
+    "elisha": {
+      "origin": "Hebrew, meaning 'God is salvation'."
+    },
+    "abraham": {
+      "origin": "Hebrew, meaning 'father of a multitude'."
+    },
+    "isaac": {
+      "origin": "Hebrew, meaning 'laughter'."
+    },
+    "jacob": {
+      "origin": "Hebrew, meaning 'holder of the heel' or 'supplanter'."
+    },
+    "isaiah": {
+      "origin": "Hebrew, meaning 'Yahweh is salvation'."
+    },
+    "jeremiah": {
+      "origin": "Hebrew, meaning 'Yahweh will uplift'."
+    },
+    "job": {
+      "origin": "Hebrew, meaning 'persecuted' or 'hated'."
+    },
+    "naomi": {
+      "origin": "Hebrew, meaning 'pleasantness'."
+    },
+    "pharaoh": {
+      "origin": "Egyptian, meaning 'great house'."
+    },
+    "rahab": {
+      "origin": "Hebrew, meaning 'to be broad' or 'spacious'."
+    },
+    "sodom": {
+      "origin": "Hebrew, meaning 'to burn'."
+    },
+    "gomorrah": {
+      "origin": "Hebrew, meaning 'submersion'."
+    },
+    "tamar": {
+      "origin": "Hebrew, meaning 'palm tree'."
+    },
+
+    "salome": {
+      "origin": "Hebrew, meaning 'peace'."
+    },
+    "mephibosheth": {
+      "origin": "Hebrew, meaning 'from the mouth of shame'."
+    },
+
+    "zophar": {
+      "origin": "Hebrew, meaning 'sparrow'."
+    },
+    "eshbaal": {
+      "origin": "Hebrew, meaning 'man of Baal'."
+    },
+    "hezekiah": {
+      "origin": "Hebrew, meaning 'Yahweh strengthens'."
+    },
+    "japheth": {
+      "origin": "Hebrew, meaning 'he opens'."
+    },
+    "gideon": {
+      "origin": "Hebrew, meaning 'hewer' or 'one who cuts trees'."
+    },
+    "mordecai": {
+      "origin": "Hebrew, meaning 'warrior'."
+    },
+    "zekariah": {
+      "origin": "Hebrew, meaning 'Yahweh remembers'."
+    },
+    "zechariah": {
+      "origin": "Hebrew, meaning 'Yahweh has remembered'."
+    },
+    "saphir": {
+      "origin": "Hebrew, meaning 'sapphire'."
+    },
+    "nebuchadnezzar": {
+      "origin": "Hebrew, meaning 'Nabu protects the crown'."
+    },
+    "manasseh": {
+      "origin": "Hebrew, meaning 'causing to forget'."
+    },
+    "joshua": {
+      "origin": "Hebrew, meaning 'Yahweh is salvation'."
+    },
+    "phinehas": {
+      "origin": "Hebrew, meaning 'the Nubian'."
+    },
+    "thessalonica": {
+      "origin": "Greek, meaning 'victory over the Thessalians'."
+    },
+    "jubilate": {
+      "origin": "Latin, meaning 'to shout for joy'."
+    },
+    "calvary": {
+      "origin": "Latin, meaning 'place of the skull'."
+    },
+    "kerygma": {
+      "origin": "Greek, meaning 'the proclamation of the gospel'."
+    },
+    "parousia": {
+      "origin": "Greek, meaning 'coming' or 'presence'."
+    },
+    "apocalypse": {
+      "origin": "Greek, meaning 'revelation' or 'unveiling'."
+    },
+    "eschatology": {
+      "origin": "Greek, meaning 'study of last things'."
+    },
+    "sacrament": {
+      "origin": "Latin, meaning 'sacred rite'."
+    },
+    "tetragrammaton": {
+      "origin": "Greek, meaning 'four letters', refers to the name of God (YHWH)."
+    },
+
+    "ecclesiology": {
+      "origin": "Greek, meaning 'study of the church'."
+    },
+
+    "revelation": {
+      "origin": "Latin, meaning 'to reveal' or 'unveil'."
+    },
+    "gnosis": {
+      "origin": "Greek, meaning 'knowledge'."
+    },
+    "beatitude": {
+      "origin": "Latin, meaning 'blessedness' or 'state of blessedness'."
+    },
+    "confession": {
+      "origin": "Latin, meaning 'to acknowledge' or 'to admit'."
+    },
+    "doctrine": {
+      "origin": "Latin, meaning 'teaching' or 'belief'."
+    }
+  }
+  
